@@ -13,4 +13,9 @@ I'm a DevOps engineer that loves to build clean code, and am the maintainer of s
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A new backup solution](https://stefan-van-essen.nl/2018/03/new-backup-solution/)
+- [Youtube watchlist 2016](https://stefan-van-essen.nl/2016/08/youtube-watchlist-2016/)
+- [Remote Kodi video playback &lpar;Part 3 – SSHFS&rpar;](https://stefan-van-essen.nl/2016/05/remote-kodi-video-playback-part-3/)
+- [Remote Kodi video playback &lpar;Part 2 – OpenSSH&rpar;](https://stefan-van-essen.nl/2015/12/remote-kodi-video-playback-part-2/)
+- [Remote Kodi video playback &lpar;Part 1 – OpenVPN&rpar;](https://stefan-van-essen.nl/2015/12/remote-kodi-video-playback-part-1/)
 <!-- BLOG-POST-LIST:END -->
