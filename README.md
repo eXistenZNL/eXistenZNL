@@ -14,10 +14,10 @@ I'm a software engineer practicing DevOps that loves to build clean code, and am
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to optimize Windows 11](https://stefan-van-essen.nl/2025/05/how-to-optimize-windows-11/)
 - [DevOps implementations](https://stefan-van-essen.nl/2023/01/devops-implementations/)
 - [Resolving composer.lock merge conflicts](https://stefan-van-essen.nl/2022/10/resolving-composer-lock-merge-conflicts/)
 - [A new backup solution](https://stefan-van-essen.nl/2018/03/new-backup-solution/)
 - [Youtube watchlist 2016](https://stefan-van-essen.nl/2016/08/youtube-watchlist-2016/)
-- [Remote Kodi video playback &lpar;Part 3 – SSHFS&rpar;](https://stefan-van-essen.nl/2016/05/remote-kodi-video-playback-part-3/)
 <!-- BLOG-POST-LIST:END -->
 
